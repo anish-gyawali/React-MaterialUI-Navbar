@@ -1,4 +1,13 @@
-*{
-  margin: 0;
-  padding: 0;
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: "Titillium Web", sans-serif;
+}
+
+:root {
+	--mainColor: rgb(154, 65, 222);
+	--mainColorLight: rgba(155, 0, 250, 1);
+	--secondaryColor: black;
+	--textColor: white;
 }
