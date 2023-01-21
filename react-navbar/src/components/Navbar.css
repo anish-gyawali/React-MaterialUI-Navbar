@@ -5,7 +5,7 @@
 	justify-content: space-between;
 	height: 80px;
 	padding: 0 2rem;
-	background-color: var(--mainColor);
+	background-color: var(--primaryColor);
 	color: var(--textColor);
 }
 
@@ -54,7 +54,7 @@ nav {
 		align-items: flex-start;
 		justify-content: center;
 		gap: 2rem;
-		background-color: var(--mainColor);
+		background-color: var(--primaryColor);
 		transition: 0.5s;
 		transform: translateX(100vh);
 	}

@@ -5,9 +5,9 @@
 	font-family: "Titillium Web", sans-serif;
 }
 
+/*custom variables for colors*/
 :root {
-	--mainColor: rgb(154, 65, 222);
-	--mainColorLight: rgba(155, 0, 250, 1);
+	--primaryColor: rgb(154, 65, 222);
 	--secondaryColor: black;
 	--textColor: white;
 }
